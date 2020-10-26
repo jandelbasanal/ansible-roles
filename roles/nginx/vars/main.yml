@@ -1,0 +1,3 @@
+nginx_package:
+  - nginx
+ansible_fqdn: 192.168.1.20

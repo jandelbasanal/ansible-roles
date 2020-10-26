@@ -1,0 +1,4 @@
+mariadb_package:
+  - mariadb-server
+  - python3-PyMySQL
+mariadb_root_password: "Passpass101"
